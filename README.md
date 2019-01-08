@@ -28,3 +28,6 @@ Tips for setting up your environment can be found [here](https://classroom.udaci
   * Linux: gcc / g++ is installed by default on most Linux distros
   * Mac: same deal as make - [install Xcode command line tools](https://developer.apple.com/xcode/features/)
   * Windows: recommend using [MinGW](http://www.mingw.org/)
+
+## Sample Output
+![Image1](Extended_Kalman_Filter.gif)
